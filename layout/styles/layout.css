@@ -502,32 +502,9 @@ table a, #comments a{background-color:inherit;}
 	margin-top:16px;
 }
 
-a {
-	text-decoration: none;
-	display: inline-block;
-	padding: 2px ;
-	
-  }
-  
-  a:hover {
-	background-color:;
-	color: black;
-	text-decoration: none;
-  }
-  
-  .previous {
-	background-color: #f1f1f1;
-	color: rgb(3, 3, 3);
-  }
-  
-  .next {
-	background-color: #ae94eb;
-	color: white;
-  }
-  
-  .round {
-	border-radius: 50%;
-  }
+
   .carousel-inner img {
 	margin: auto;
+	
   }
+ 
